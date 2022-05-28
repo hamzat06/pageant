@@ -6,7 +6,7 @@ const ForgotPassword = () => {
         <div>
             <div className="text-white">
                 <h1 className="text-2xl font-semibold mb-10">
-                    Let us help you retrieve your Account
+                    Let's retrieve your Account
                 </h1>
                 <div>
                     <form>
